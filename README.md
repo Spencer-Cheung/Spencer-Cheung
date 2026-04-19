@@ -1,7 +1,7 @@
 # Hi, I'm Spencer Cheung 👋
 
 🎓 Master's in Applied Data Science — University of Michigan  
-💼 Senior Analyst, Secondary Marketing (Mortgage / Capital Markets)  
+💼 AVP/ Senior Analyst, Secondary Marketing (Mortgage / Capital Markets)  
 📍 California  
 
 ---
